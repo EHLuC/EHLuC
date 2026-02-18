@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: **I started learning programming to solve real problems I faced at work**
 
-- 🌟 My featured projects: **[upae.com.br](https://upae.com.br)** & **[EcoTrip Calculator](https://ecotrip-react.vercel.app)**
+- 🌟 My featured projects: **[upae.com.br](https://upae.com.br)** & **[EcoTrip Calculator](https://ecotrip-calculator.vercel.app)**
 
 ---
 
